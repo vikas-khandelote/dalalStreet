@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SuiteRegressionSuiteTradingTest">
+
+	<listeners>
+		<listener class-name="com.qa.utility.ListenersSetup" />
+		
+		<!-- here we add listener tag in that we will use utility package name.extentreport class name-->
+		<listener class-name="com.qa.utility.ExtentReporterNG" />
+
+	</listeners>
+	<parameter name="browser" value="Chrome" />
+	<test thread-count="5" name="TestRegressionSuiteTradingTest">
+		<classes>
+			<class name="com.qa.testLayer.LoginPageTest" />
+			<class name="com.qa.testLayer.TradingTest" />
+		</classes>
+	</test> <!-- TestRegressionSuiteTradingTest -->
+</suite> <!-- SuiteRegressionSuiteTradingTest -->

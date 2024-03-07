@@ -1,0 +1,50 @@
+2022-07-06 00:58:04,348 [main] INFO dalaStreet - My Frame Work Execution is Started
+2022-07-06 00:58:09,358 [main] INFO dalaStreet - Chrome Launches
+2022-07-06 00:58:15,321 [main] INFO dalaStreet - maximize and delete all cookies with some time
+2022-07-06 00:58:15,362 [main] INFO dalaStreet - Started Test case Execution
+2022-07-06 00:58:15,918 [main] INFO dalaStreet - TestCase Sucxessfully paased 
+2022-07-06 00:58:16,366 [main] INFO dalaStreet - Browser closed
+2022-07-06 00:58:16,369 [main] INFO dalaStreet - My Frame Work Execution is Stopped
+2022-07-06 00:58:16,375 [main] INFO dalaStreet - My Frame Work Execution is Started
+2022-07-06 00:58:18,278 [main] INFO dalaStreet - Chrome Launches
+2022-07-06 00:58:24,279 [main] INFO dalaStreet - maximize and delete all cookies with some time
+2022-07-06 00:58:24,354 [main] INFO dalaStreet - Started Test case Execution
+2022-07-06 00:58:44,782 [main] INFO dalaStreet - TestCase failed 
+2022-07-06 00:58:45,202 [main] INFO dalaStreet - Screenshot Taken
+2022-07-06 00:58:45,650 [main] INFO dalaStreet - Browser closed
+2022-07-06 00:58:45,651 [main] INFO dalaStreet - My Frame Work Execution is Stopped
+2022-07-06 01:00:12,517 [main] INFO dalaStreet - My Frame Work Execution is Started
+2022-07-06 01:00:16,716 [main] INFO dalaStreet - Chrome Launches
+2022-07-06 01:00:20,897 [main] INFO dalaStreet - maximize and delete all cookies with some time
+2022-07-06 01:00:20,955 [main] INFO dalaStreet - Started Test case Execution
+2022-07-06 01:00:21,564 [main] INFO dalaStreet - TestCase Sucxessfully paased 
+2022-07-06 01:00:21,993 [main] INFO dalaStreet - Browser closed
+2022-07-06 01:00:21,994 [main] INFO dalaStreet - My Frame Work Execution is Stopped
+2022-07-06 01:00:22,001 [main] INFO dalaStreet - My Frame Work Execution is Started
+2022-07-06 01:00:23,973 [main] INFO dalaStreet - Chrome Launches
+2022-07-06 01:00:29,502 [main] INFO dalaStreet - maximize and delete all cookies with some time
+2022-07-06 01:00:29,505 [main] INFO dalaStreet - Started Test case Execution
+2022-07-06 01:00:44,312 [main] INFO dalaStreet - TestCase Sucxessfully paased 
+2022-07-06 01:00:44,844 [main] INFO dalaStreet - Browser closed
+2022-07-06 01:00:44,845 [main] INFO dalaStreet - My Frame Work Execution is Stopped
+2022-08-20 23:31:04,437 [main] INFO dalaStreet - My Frame Work Execution is Started
+2022-08-20 23:31:26,016 [main] INFO dalaStreet - Chrome Launches
+2022-08-20 23:31:29,552 [main] INFO dalaStreet - maximize and delete all cookies with some time
+2022-08-20 23:31:40,631 [main] INFO dalaStreet - Browser closed
+2022-08-20 23:31:40,635 [main] INFO dalaStreet - My Frame Work Execution is Stopped
+2022-08-28 14:02:15,248 [main] INFO dalaStreet - My Frame Work Execution is Started
+2022-08-28 14:02:35,992 [main] INFO dalaStreet - Chrome Launches
+2022-08-28 14:02:39,557 [main] INFO dalaStreet - maximize and delete all cookies with some time
+2022-08-28 14:02:40,240 [main] INFO dalaStreet - Started Test case Execution
+2022-08-28 14:02:46,578 [main] INFO dalaStreet - TestCase failed 
+2022-08-28 14:02:47,168 [main] INFO dalaStreet - Screenshot Taken
+2022-08-28 14:02:47,652 [main] INFO dalaStreet - Browser closed
+2022-08-28 14:02:47,654 [main] INFO dalaStreet - My Frame Work Execution is Stopped
+2022-08-28 14:02:47,677 [main] INFO dalaStreet - My Frame Work Execution is Started
+2022-08-28 14:02:49,539 [main] INFO dalaStreet - Chrome Launches
+2022-08-28 14:02:56,158 [main] INFO dalaStreet - maximize and delete all cookies with some time
+2022-08-28 14:02:56,167 [main] INFO dalaStreet - Started Test case Execution
+2022-08-28 14:03:03,651 [main] INFO dalaStreet - TestCase failed 
+2022-08-28 14:03:03,858 [main] INFO dalaStreet - Screenshot Taken
+2022-08-28 14:03:04,379 [main] INFO dalaStreet - Browser closed
+2022-08-28 14:03:04,380 [main] INFO dalaStreet - My Frame Work Execution is Stopped
